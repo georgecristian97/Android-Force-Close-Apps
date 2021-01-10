@@ -1,7 +1,7 @@
 # Android Force Close Apps
  Appium Force close apps in Samsung One UI 2.0
 
-
+![](https://raw.githubusercontent.com/georgecristian97/Logo/main/logo/appium-logo.png)![](https://raw.githubusercontent.com/georgecristian97/Logo/main/logo/python-logo.png)![](https://raw.githubusercontent.com/georgecristian97/Logo/main/logo/androidstudio-logo.png)![](https://raw.githubusercontent.com/georgecristian97/Logo/main/logo/pycharm-logo.png)![](https://raw.githubusercontent.com/georgecristian97/Logo/main/logo/java-logo.png)![](https://raw.githubusercontent.com/georgecristian97/Logo/main/logo/nodejs-logo.png)
 
 Getting started:
 
@@ -11,7 +11,7 @@ Getting started:
 
 :warning:	mac  users, try adb devices if does not work then:
 
-					-	Start Terminal
+	-	Start Terminal
 						command + spacebar, enter terminal and click terminal app
 
 ```
