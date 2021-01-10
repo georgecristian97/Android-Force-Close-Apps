@@ -5,11 +5,11 @@
 
 Getting started:
 
-:package: ​Install Java:
+:package:	Install Java:
 
-​	:package:Install android studio:
+:package:	Install android studio:
 
-​			:warning:mac  users, try adb devices if does not work then:
+:warning:	mac  users, try adb devices if does not work then:
 
 					-	Start Terminal
 						command + spacebar, enter terminal and click terminal app
@@ -60,19 +60,19 @@ brew install android-platform-tools
 
 ​                    javac -version
 
-​                    :smile: Now is should be fine
+​                    :smile:	Now is should be fine
 
 ​	
 
-​	:iphone:Connect your phone to pc and enable debugging
+​	:iphone:	Connect your phone to pc and enable debugging
 
-​	:package:[Download and install Appium](http://appium.io/downloads.html)
+​	:package:	[Download and install Appium](http://appium.io/downloads.html)
 
 ![]()	
 
-:package:[Install python](https://www.python.org/downloads/release/python-370/)
+:package:	[Install python](https://www.python.org/downloads/release/python-370/)
 
-:hammer:Edit with:
+:hammer:	Edit with:
 
 [Download PyCharm: Python IDE for Professional Developers by JetBrains](https://www.jetbrains.com/pycharm/download/#section=windows)
 
