@@ -62,11 +62,9 @@ brew install android-platform-tools
 
 ​                    :smile:	Now is should be fine
 
-​	
+:iphone:	Connect your phone to pc and enable debugging
 
-​	:iphone:	Connect your phone to pc and enable debugging
-
-​	:package:	[Download and install Appium](http://appium.io/downloads.html)
+:package:	[Download and install Appium](http://appium.io/downloads.html)
 
 ![]()	
 
