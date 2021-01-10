@@ -64,9 +64,9 @@ brew install android-platform-tools
 
 :iphone:	Connect your phone to pc and enable debugging
 
-:package:	[Download and install Appium](http://appium.io/downloads.html)
+:package:	[Download and install Appium](http://appium.io/downloads.html) and set the env var:
 
-![]()	
+![](https://raw.githubusercontent.com/georgecristian97/Android-Force-Close-Apps/main/Screen%20Shot%202021-01-10%20at%207.30.28%20PM.png)	
 
 :package:	[Install python](https://www.python.org/downloads/release/python-370/)
 
